@@ -10,9 +10,15 @@ Python Notebooks for Models:
     4. Audio ViT-Disease.ipynb - ViT for Detecting voice of people with Neurological Disease using TORGO
     5.Audio ViT-Noise-UrbanSound8k.ipynb - ViT for noisy UrbanSound8k
     6.Audio ViT-UrbanSound8k.ipynb - ViT for Urbansounds
-    7. Inference.ipynb - 
-    8. SpeechCommand Preprocessing-Lengthy.ipynb - Effects of Lengthy audio on ViT
-    9. SpeechCommand Preprocessing.ipynb - ViT for Speech Commands
-    10. ViT Transformer from Scratch.ipynb - Building the ViT From Scratch
+    7. Audio ViT Test - Used for inference of ViT models.
+    8. Audio ViT Coswara - Trained on Coswara Dataset.
+    9. Audio ViT Ablation 1 - Attention Ablation Study.
+    10. Audio ViT Ablation 2 - Patch Size Ablation Study.
+    11. Audio ViT ECS 50 - Environmental Sounds Calssification Dataset.
+    12. Inference.ipynb - File for the Inference of Vit on Noisy Audio
+    13. SpeechCommand Preprocessing-Lengthy.ipynb - Effects of Lengthy audio on ViT
+    14. SpeechCommand Preprocessing.ipynb - ViT for Speech Commands
+    15. ViT Transformer from Scratch.ipynb - Building the ViT From Scratch
+   
     
  
